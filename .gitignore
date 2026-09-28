@@ -1,0 +1,14 @@
+vi-prompt.txt
+vi-launch.py
+vi-codex.log
+vi-audit.jsonl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+visioninspect-output/
+visioninspect-report.json
