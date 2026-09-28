@@ -1,0 +1,4 @@
+Test count: 13 passed
+Local commit hash: c4b364c749b8bc3f2058f3bbd3344ba3d3fac143
+
+Summary: Built VisionInspect as a CPU-only Python CLI and library using deterministic rule-based image-analysis heuristics, with no trained vision model, neural networks, or learned features. It includes seeded fictional fixture generation, named checks for integrity, dimensions, aspect, blur, exposure, metadata, and document layout, evidence-linked JSON reports, deterministic annotated PNG output, batch summaries, Markdown and HTML rendering, and an append-only timestamped audit log. The README documents the honesty boundary, architecture, measurements, profiles, and quickstart.
